@@ -17,7 +17,7 @@ my %fields = (obs => [],
               p_value => 0,
               valid => 0, 
               warning => 0);
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 sub new {
   my $proto = shift;
