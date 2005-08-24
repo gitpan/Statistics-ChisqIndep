@@ -1,6 +1,6 @@
 use ExtUtils::MakeMaker;
 
-$VERSION  = "0.02";
+$VERSION  = "0.1";
 
 
 WriteMakefile(
